@@ -22,11 +22,13 @@ SolarPrediction/
 
 ## Results (example outputs)
 
-| Model                     | Version    | MAE       | RMSE  | R²    |
-|---------------------------|------------|-----------|-------|-------|
-| Random Forest             | Baseline   | 0.379     | 2.81  | 0.99  |
-| Random Forest             | Tuned      | 0.3399    | 2.61  | 0.99  |
-| XGBoost                   | Baseline   | 11.281    | 2.81  | 0.99  |
+| Model                     | Version    | MAE       | RMSE    | R²    |
+|---------------------------|------------|-----------|---------|-------|
+| Random Forest             | Baseline   | 0.379     | 2.81    | 0.99  |
+| Random Forest             | Tuned      | 0.3399    | 2.61    | 0.99  |
+| XGBoost                   | Baseline   | 11.281    | 406.14  | 0.99  |
+| XGBoost                   | Tuned      | 9.78      | 314.35  | 0.99  |
+
 
 
 
