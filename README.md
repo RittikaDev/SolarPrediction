@@ -5,6 +5,7 @@ This repository contains multiple machine learning models for predicting solar p
 
 ## Models Included
 - Random Forest
+- XG-Boost
 
 ## Folder Structure
 ```bash
@@ -26,5 +27,6 @@ SolarPrediction/
 | Random Forest             | Baseline   | 0.379     | 2.81  | 0.99  |
 | Random Forest             | Tuned      | 0.3399    | 2.61  | 0.99  |
 | XGBoost                   | Baseline   | 11.281    | 2.81  | 0.99  |
+
 
 
