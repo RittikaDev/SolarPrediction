@@ -7,10 +7,12 @@ This repository contains multiple machine learning models for predicting solar p
 - Random Forest
 
 ## Folder Structure
+```bash
 SolarPrediction/
 │── RandomForest/
 │ ├── rf_baseline.ipynb
 │ └── rf_tuned.ipynb
+```
 
 
 ## Results (example outputs)
@@ -18,3 +20,4 @@ SolarPrediction/
 | Model                     | Version  | MAE   | RMSE  | R²    |
 |---------------------------|----------|-------|-------|-------|
 | Random Forest             | Baseline | 0.379 | 2.81  | 0.99  |
+
